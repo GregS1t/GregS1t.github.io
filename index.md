@@ -11,6 +11,16 @@ I'm research Engineer in Machine Learning at Observatoire de Paris.
 Previously i was software engineer at Institut de Physique du Globe de Paris (![IPGP](www.ipgp.fr)).
 
 
+# Education 
+2001-2004 - **Laboratoire de Physique Nucléaire et des Hautes Energie**, Paris    
+PhD, _Specstroscopie des supernovae à grand décalage vers le rouge_      
+
+2000-1999 - **Université Lyon I**   
+DEA Particules, Noyaux, Atomes et Photons   
+Mémoire sur la spectroscopie des données VLT/FORS1
+
+
+
 # Contributions to papers
 
 ## 2024
