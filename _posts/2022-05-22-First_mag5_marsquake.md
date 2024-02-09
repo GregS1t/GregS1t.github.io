@@ -1,8 +1,9 @@
 
 ---
-title:  "First magnitude 5 earthquake “heard” on Mars"
+title:  "First magnitude 5 earthquake 'heard' on Mars"
 layout: post
 ---
+
 A "Marsquake" with an estimated magnitude of 5 shook the Red Planet on the night of 04/05/2022. The French SEIS instrument, deployed on the ground by NASA's InSight lander, had a front-row seat. Our teams have transcribed the event in audio. 
 
 ![](https://www.ipgp.fr/wp-content/uploads/2023/06/bcp_insight-seisme-magnitude5-spectrogramme_1920-accroche-1571x711.jpg)
