@@ -10,16 +10,16 @@ I'm research Engineer in Machine Learning at Observatoire de Paris.
 Previously i was software engineer at Institut de Physique du Globe de Paris (![IPGP](www.ipgp.fr)) mainly working in the NASA InSight mission.
 
 # Education 
-2001-2004 - **Laboratoire de Physique Nucléaire et des Hautes Energies**, Université Pierre et Marie Curie, Paris    
-PhD, _Specstroscopie des supernovae à grand décalage vers le rouge_ (Director: Dr. Reynald Pain)     
+2001-2004 - Université Pierre et Marie Curie, Paris    
+PhD, **Laboratoire de Physique Nucléaire et des Hautes Energies | CNRS**: _Spectroscopie des supernovae à grand décalage vers le rouge_ (Director: Dr. Reynald Pain)     
 
 2000-1999 - Université Claude Bernard Lyon I, Villeubanne   
 DEA Particules, Noyaux, Atomes et Photons (former Master 2)   
-Intership at Institut de Physique Nucléaire de Lyon: _Spectroscopy of type Ia supernovae with VLT/FORS1_ (advisor: Dr. Pierre Antilogus)
+Intership at **Institut de Physique Nucléaire de Lyon**: _Spectroscopy of type Ia supernovae with VLT/FORS1_ (advisor: Dr. Pierre Antilogus)
 
 1999-2000 - Université Claude Bernard Lyon I, Villeurbanne
 Maitrise de Physique (option astrophysique) (former Master 1)
-Internship at Observatoire de Lyon: _Calibration of the Faber-Jackson relation using Cepheids_ (advisor: Pr. Hélène Courtois)
+Internship at **Centre de recherche Astronomique de Lyon**: _Calibration of the Faber-Jackson relation using Cepheids_ (advisor: Pr. Hélène Courtois)
 
 # Some contributions to papers
 
@@ -38,14 +38,14 @@ Internship at Observatoire de Lyon: _Calibration of the Faber-Jackson relation u
 
 ## 2022
 
-- Jacob, A., Plasman, M., Perrin, C., Fuji, N., Lognonné, P., Xu, Z., ... & Banerdt, W. B. (2022). Seismic sources of InSight marsquakes and seismotectonic context of Elysium Planitia, Mars. Tectonophysics, 837, 229434. https://doi.org/10.1016/j.tecto.2022.229434
+- Jacob, A., Plasman, M., Perrin, C., Fuji, N., Lognonné, P., Xu, Z., ... & Banerdt, W. B. (2022). **Seismic sources of InSight marsquakes and seismotectonic context of Elysium Planitia**, Mars. Tectonophysics, 837, 229434. https://doi.org/10.1016/j.tecto.2022.229434
 
 ## 2021
 
-- Salma Barkaoui, Philippe Lognonné, Taichi Kawamura, Éléonore Stutzmann, Léonard Seydoux, Maarten V. de Hoop, Randall Balestriero, John‐Robert Scholz, Grégory Sainton, Matthieu Plasman, Savas Ceylan, John Clinton, Aymeric Spiga, Rudolf Widmer‐Schnidrig, Francesco Civilini, W. Bruce Banerdt; Anatomy of Continuous Mars SEIS and Pressure Data from Unsupervised Learning. Bulletin of the Seismological Society of America 2021;; 111 (6): 2964–2981. doi: https://doi.org/10.1785/0120210095
+- Salma Barkaoui, Philippe Lognonné, Taichi Kawamura, Éléonore Stutzmann, Léonard Seydoux, Maarten V. de Hoop, Randall Balestriero, John‐Robert Scholz, Grégory Sainton, Matthieu Plasman, Savas Ceylan, John Clinton, Aymeric Spiga, Rudolf Widmer‐Schnidrig, Francesco Civilini, W. Bruce Banerdt; **Anatomy of Continuous Mars SEIS and Pressure Data from Unsupervised Learning**. Bulletin of the Seismological Society of America 2021;; 111 (6): 2964–2981. doi: https://doi.org/10.1785/0120210095
   
 ## 2020
-- Scholz, J.-R., Widmer-Schnidrig, R., Davis, P., Lognonné, P., Pinot, B., Garcia, R. F., et al. (2020). Detection, analysis, and removal of glitches from InSight's seismic data from Mars. Earth and Space Science, 7, e2020EA001317. https://doi.org/10.1029/2020EA001317
+- Scholz, J.-R., Widmer-Schnidrig, R., Davis, P., Lognonné, P., Pinot, B., Garcia, R. F., et al. (2020). **Detection, analysis, and removal of glitches from InSight's seismic data from Mars. Earth and Space Science**, 7, e2020EA001317. https://doi.org/10.1029/2020EA001317
 
 ## 2008
 - Nugent, P. E., Garavini, G., Folatelli, G., Nobili, S., Aldering, G., Amanullah, R., ... & Yasuda, N. (2008). **Quantitative comparison between Type Ia supernova spectra at low and high redshifts: A case study**. Astronomy and Astrophysics, 470(LBNL-632E).
