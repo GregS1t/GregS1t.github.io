@@ -7,17 +7,21 @@ Clearly under construction...
 
 # Who am i ?
 I'm research Engineer in Machine Learning at Observatoire de Paris.    
-Previously i was software engineer at Institut de Physique du Globe de Paris (![IPGP](www.ipgp.fr)).
+Previously i was software engineer at Institut de Physique du Globe de Paris (![IPGP](www.ipgp.fr)) mainly working in the NASA InSight mission.
 
 # Education 
-2001-2004 - **Laboratoire de Physique Nucléaire et des Hautes Energie**, Paris    
-PhD, _Specstroscopie des supernovae à grand décalage vers le rouge_      
+2001-2004 - **Laboratoire de Physique Nucléaire et des Hautes Energies**, Université Pierre et Marie Curie, Paris    
+PhD, _Specstroscopie des supernovae à grand décalage vers le rouge_ (Director: Dr. Reynald Pain)     
 
-2000-1999 - **Université Lyon I**, Lyon   
+2000-1999 - Université Claude Bernard Lyon I, Villeubanne   
 DEA Particules, Noyaux, Atomes et Photons (former Master 2)   
-Report on the spectroscopy of type Ia supernovae with VLT/FORS1 | Institut de Physique Nucléaire de Lyon
+Intership at Institut de Physique Nucléaire de Lyon: _Spectroscopy of type Ia supernovae with VLT/FORS1_ (advisor: Dr. Pierre Antilogus)
 
-# Contributions to papers
+1999-2000 - Université Claude Bernard Lyon I, Villeurbanne
+Maitrise de Physique (option astrophysique) (former Master 1)
+Internship at Observatoire de Lyon: _Calibration of the Faber-Jackson relation using Cepheids_ (advisor: Pr. Hélène Courtois)
+
+# Some contributions to papers
 
 ## 2024
 
