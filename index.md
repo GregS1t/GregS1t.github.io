@@ -14,8 +14,8 @@ Previously i was software engineer at Institut de Physique du Globe de Paris (![
 PhD, _Specstroscopie des supernovae à grand décalage vers le rouge_      
 
 2000-1999 - **Université Lyon I**, Lyon   
-DEA Particules, Noyaux, Atomes et Photons   
-Mémoire sur la spectroscopie des données VLT/FORS1
+DEA Particules, Noyaux, Atomes et Photons (former Master 2)   
+Report on the spectroscopy of type Ia supernovae with VLT/FORS1 | Institut de Physique Nucléaire de Lyon
 
 # Contributions to papers
 
@@ -24,14 +24,13 @@ Mémoire sur la spectroscopie des données VLT/FORS1
 - A. Lucas, I.J. Daubar, M. Le Teuff, C. Perrin, T. Kawamura, L. Posiolova, P. Lognonné, S. Rodriguez, D. Giardini, G. Sainton, A. Mangeney, A. McEwen, Possibly seismically triggered avalanches after the S1222a Marsquake and S1000a impact event, Icarus, Vol. 411, 2024, 115942, [DOI : 10.1016/j.icarus.2023.115942](https://doi.org/10.1016/j.icarus.2023.115942).
 
 ## 2023 
-- Siahkoohi, A., Morel, R., De Hoop, M.V., Allys, E., Sainton, G. &amp; Kawamura, T.. (2023). Unearthing InSights into Mars: Unsupervised Source Separation with Limited Data. <i>Proceedings of the 40th International Conference on Machine Learning</i>, in <i>Proceedings of Machine Learning Research</i> 202:31754-31772 Available from https://proceedings.mlr.press/v202/siahkoohi23a.html.
-
-
-- Kawamura, T., Clinton, J. F., Zenhäusern, G., Ceylan, S., Horleston, A. C., Dahmen, N. L., et al. (2023). S1222a—The largest marsquake detected by InSight. Geophysical Research Letters, 50, e2022GL101543. [https://doi.org/10.1029/2022GL101543](https://doi.org/10.1029/2022GL101543)
-- Shen Liang , Antoine Lucas , Stephen Porder , Gregory Sainton, Alexandre Fournier, Themis Palpanas  FARMYARD: A Generic GPU-based Pipeline for Feature Discovery from Massive Planetary LiDAR Data. TechRxiv. December 11, 2022. [DOI: 10.36227/techrxiv.21303411.v2](https://www.techrxiv.org/doi/full/10.36227/techrxiv.21303411.v2)
-- Lognonné, P., Schimmel, M., Stutzmann, E., Davis, P., Drilleau, M., Sainton, G., et al. (2023). Detection of Mars normal modes from S1222a event and seismic hum. Geophysical Research Letters, 50, e2023GL103205. https://doi.org/10.1029/2023GL103205
+- Siahkoohi, A., Morel, R., De Hoop, M.V., Allys, E., Sainton, G. &amp; Kawamura, T.. (2023). **Unearthing InSights into Mars: Unsupervised Source Separation with Limited Data**. <i>Proceedings of the 40th International Conference on Machine Learning</i>, in <i>Proceedings of Machine Learning Research</i> 202:31754-31772 Available from https://proceedings.mlr.press/v202/siahkoohi23a.html.
+- Kawamura, T., Clinton, J. F., Zenhäusern, G., Ceylan, S., Horleston, A. C., Dahmen, N. L., et al. (2023). **S1222a—The largest marsquake detected by InSight**. Geophysical Research Letters, 50, e2022GL101543. [https://doi.org/10.1029/2022GL101543](https://doi.org/10.1029/2022GL101543)
+- Shen Liang , Antoine Lucas , Stephen Porder , Gregory Sainton, Alexandre Fournier, Themis Palpanas  **FARMYARD: A Generic GPU-based Pipeline for Feature Discovery from Massive Planetary LiDAR Data**. TechRxiv. December 11, 2022. [DOI: 10.36227/techrxiv.21303411.v2](https://www.techrxiv.org/doi/full/10.36227/techrxiv.21303411.v2)
+- Lognonné, P., Schimmel, M., Stutzmann, E., Davis, P., Drilleau, M., Sainton, G., et al. (2023). **Detection of Mars normal modes from S1222a event and seismic hum**. Geophysical Research Letters, 50, e2023GL103205. https://doi.org/10.1029/2023GL103205
 - Golombek, M., Hudson, T., Bailey, P. et al. Results from InSight Robotic Arm Activities. Space Sci Rev 219, 20 (2023). https://doi.org/10.1007/s11214-023-00964-0
-- Shi, J., Plasman, M., Knapmeyer-Endrun, B., Xu, Z., Kawamura, T., Lognonné, P., et al. (2023). High-frequency receiver functions with event S1222a reveal a discontinuity in the Martian shallow crust. Geophysical Research Letters, 50, e2022GL101627. https://doi.org/10.1029/2022GL101627
+- Shi, J., Plasman, M., Knapmeyer-Endrun, B., Xu, Z., Kawamura, T., Lognonné, P., et al. (2023). **High-frequency receiver functions with event S1222a reveal a discontinuity in the Martian shallow crust**. Geophysical Research Letters, 50, e2022GL101627. https://doi.org/10.1029/2022GL101627
+- Xiao, W., Kawamura, T., Xu, Z., Carrasco, S., Onodera, K., Sainton, G., ... & Banerdt, W. B. (2023). **Evaluation of S1222a source parameters based on site effect simulation and implication for the event origin**. Geophysical Research Letters, 50(13), e2023GL103429.
 
 ## 2022
 
@@ -44,5 +43,20 @@ Mémoire sur la spectroscopie des données VLT/FORS1
 ## 2020
 - Scholz, J.-R., Widmer-Schnidrig, R., Davis, P., Lognonné, P., Pinot, B., Garcia, R. F., et al. (2020). Detection, analysis, and removal of glitches from InSight's seismic data from Mars. Earth and Space Science, 7, e2020EA001317. https://doi.org/10.1029/2020EA001317
 
+## 2008
+- Nugent, P. E., Garavini, G., Folatelli, G., Nobili, S., Aldering, G., Amanullah, R., ... & Yasuda, N. (2008). **Quantitative comparison between Type Ia supernova spectra at low and high redshifts: A case study**. Astronomy and Astrophysics, 470(LBNL-632E).
+- Garavini, G., Folatelli, G., Nobili, S., Aldering, G., Amanullah, R., Antilogus, P., ... & Yasuda, N. (2007). **Quantitative comparison between type Ia supernova spectra at low and high redshifts: a case study**. Astronomy & Astrophysics, 470(2), 411-424.
 
+## 2007
+- Balland, C., Mouchet, M., Amanullah, R., Astier, P., Fabbro, S., Folatelli, G., ... & Walton, N. A. (2007). **Spectroscopic observations of eight supernovae at intermediate redshift. Astronomy & Astrophysics**, 464(3), 827-836.
 
+## 2006
+- Balland, C., Mouchet, M., Pain, R., Walton, N. A., Amanullah, R., Astier, P., ... & Stanishev, V. (2006). **Spectroscopy of twelve Type Ia supernovae at intermediate redshift. Astronomy & Astrophysics**, 445(2), 387-402.
+
+## 2005
+- Hook, I. M., Howell, D. A., Aldering, G., Amanullah, R., Burns, M. S., Conley, A., ... & Supernova Cosmology Project. (2005). **Spectra of high-redshift type Ia supernovae and a comparison with their low-redshift counterparts**. The Astronomical Journal, 130(6), 2788.
+- Nobili, S., Amanullah, R., Garavini, G., Goobar, A., Lidman, C., Stanishev, V., ... & Wang, L. (2005). **Restframe I-band Hubble diagram for type Ia supernovae up to redshift z 0.5**. Astronomy & Astrophysics, 437(3), 789-804.
+- Blondin, S., Walsh, J. R., Leibundgut, B., & Sainton, G. (2005). **Extracting clean supernova spectra-Towards a quantitative analysis of high-redshift Type Ia supernova spectra**. Astronomy & Astrophysics, 431(2), 757-771.
+
+## 2004 
+- Folatelli, G., Goobar, A., Nobili, S., Aldering, G., Amadon, A., Amanullah, R., ... & Supernova Cosmology Project. (2004). **Spectroscopic observations and analysis of the peculiar SN 1999aa**. The Astronomical Journal, 128(1), 387.
