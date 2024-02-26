@@ -23,6 +23,11 @@ Internship at **Centre de recherche Astronomique de Lyon**: _Calibration of the 
 
 # Some contributions to papers
 
+## Preprint
+
+A. Siahkoohi, R. Morel, R. Balestriero, E. Allys, G. Sainton, T. Kawamura, and M. V. de Hoop (2024), Martian time-series unraveled: A multi-scale nested approach with factorial variational autoencoders [arXiv](https://arxiv.org/abs/2305.16189).
+
+
 ## 2024
 
 - A. Lucas, I.J. Daubar, M. Le Teuff, C. Perrin, T. Kawamura, L. Posiolova, P. Lognonné, S. Rodriguez, D. Giardini, G. Sainton, A. Mangeney, A. McEwen, Possibly seismically triggered avalanches after the S1222a Marsquake and S1000a impact event, Icarus, Vol. 411, 2024, 115942, [DOI : 10.1016/j.icarus.2023.115942](https://doi.org/10.1016/j.icarus.2023.115942).
