@@ -25,7 +25,7 @@ Internship at **Centre de recherche Astronomique de Lyon**: _Calibration of the 
 
 ## Preprint
 
-A. Siahkoohi, R. Morel, R. Balestriero, E. Allys, G. Sainton, T. Kawamura, and M. V. de Hoop (2024), Martian time-series unraveled: A multi-scale nested approach with factorial variational autoencoders [arXiv](https://arxiv.org/abs/2305.16189).
+A. Siahkoohi, R. Morel, R. Balestriero, E. Allys, G. Sainton, T. Kawamura, and M. V. de Hoop (2024), Martian time-series unraveled: A multi-scale nested approach with factorial variational autoencoders [arXiv 2305.16189](https://arxiv.org/abs/2305.16189).
 
 
 ## 2024
