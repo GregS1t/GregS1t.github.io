@@ -30,7 +30,7 @@ A. Siahkoohi, R. Morel, R. Balestriero, E. Allys, G. Sainton, T. Kawamura, and M
 
 ## 2024
 
-- A. Lucas, I.J. Daubar, M. Le Teuff, C. Perrin, T. Kawamura, L. Posiolova, P. Lognonné, S. Rodriguez, D. Giardini, G. Sainton, A. Mangeney, A. McEwen, Possibly seismically triggered avalanches after the S1222a Marsquake and S1000a impact event, Icarus, Vol. 411, 2024, 115942, [DOI : 10.1016/j.icarus.2023.115942](https://doi.org/10.1016/j.icarus.2023.115942).
+- A. Lucas, I.J. Daubar, M. Le Teuff, C. Perrin, T. Kawamura, L. Posiolova, P. Lognonné, S. Rodriguez, D. Giardini, G. Sainton, A. Mangeney, A. McEwen, **Possibly seismically triggered avalanches after the S1222a Marsquake and S1000a impact event**, Icarus, Vol. 411, 2024, 115942, [DOI : 10.1016/j.icarus.2023.115942](https://doi.org/10.1016/j.icarus.2023.115942).
 
 ## 2023 
 - Siahkoohi, A., Morel, R., De Hoop, M.V., Allys, E., Sainton, G. &amp; Kawamura, T.. (2023). **Unearthing InSights into Mars: Unsupervised Source Separation with Limited Data**. <i>Proceedings of the 40th International Conference on Machine Learning</i>, in <i>Proceedings of Machine Learning Research</i> 202:31754-31772 Available from https://proceedings.mlr.press/v202/siahkoohi23a.html.
