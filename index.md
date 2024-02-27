@@ -6,27 +6,28 @@ Clearly under construction...
 
 
 # Who am i ?
-I'm research Engineer in Machine Learning at Observatoire de Paris.    
-Previously i was software engineer at Institut de Physique du Globe de Paris (![IPGP](www.ipgp.fr)) mainly working in the NASA InSight mission.
+- I'm research engineer in Machine Learning at Observatoire de Paris in LERMA Team.    
+- Previously i was a software engineer at Institut de physique du globe de Paris (![IPGP](www.ipgp.fr)) mainly working in the NASA InSight mission.
 
 # Education 
 2001-2004 - Université Pierre et Marie Curie, Paris    
 PhD, **Laboratoire de Physique Nucléaire et des Hautes Energies | CNRS**: _Spectroscopie des supernovae à grand décalage vers le rouge_ (Director: Dr. Reynald Pain)     
 
-2000-1999 - Université Claude Bernard Lyon I, Villeubanne   
+2000-1999 - Université Claude Bernard Lyon I, Villeurbanne   
 DEA Particules, Noyaux, Atomes et Photons (former Master 2)   
 Intership at **Institut de Physique Nucléaire de Lyon**: _Spectroscopy of type Ia supernovae with VLT/FORS1_ (advisor: Dr. Pierre Antilogus)
 
 1999-2000 - Université Claude Bernard Lyon I, Villeurbanne
 Maitrise de Physique (option astrophysique) (former Master 1)
-Internship at **Centre de recherche Astronomique de Lyon**: _Calibration of the Faber-Jackson relation using Cepheids_ (advisor: Pr. Hélène Courtois)
+Internship at **Centre de Recherche Astronomique de Lyon**: _Calibration of the Faber-Jackson relation using Cepheids_ (advisor: Pr. Hélène Courtois)
 
 # Some contributions to papers
 
-## Preprint
+## Preprints
 
-A. Siahkoohi, R. Morel, R. Balestriero, E. Allys, G. Sainton, T. Kawamura, and M. V. de Hoop (2024), **Martian time-series unraveled: A multi-scale nested approach with factorial variational autoencoders** [arXiv 2305.16189](https://arxiv.org/abs/2305.16189).
+A. Siahkoohi, R. Morel, R. Balestriero, E. Allys, G. Sainton, T. Kawamura, and M. V. de Hoop (2024), **Martian time-series unraveled: A multi-scale nested approach with factorial variational autoencoders** [arXiv:2305.16189](https://arxiv.org/abs/2305.16189).
 
+D. Cornu, P. Salomé, B. Semelin, A. Marchal, J. Freundlich, S. Aicardi, X. Lu, G. Sainton, F. Mertens, F. Combes, C. Tasse (2024). **YOLO-CIANNA: Galaxy detection with deep learning in radio data. I. A new YOLO-inspired source detection method applied to the SKAO SDC1**. [arXiv:2402.05925](https://arxiv.org/abs/2402.05925).
 
 ## 2024
 
@@ -69,3 +70,4 @@ A. Siahkoohi, R. Morel, R. Balestriero, E. Allys, G. Sainton, T. Kawamura, and M
 
 ## 2004 
 - Folatelli, G., Goobar, A., Nobili, S., Aldering, G., Amadon, A., Amanullah, R., ... & Supernova Cosmology Project. (2004). **Spectroscopic observations and analysis of the peculiar SN 1999aa**. The Astronomical Journal, 128(1), 387.
+- Sainton., G. Spectroscopie des supernovae à grands décalages vers le rouge, Thèse de doctorat, 21 septembre 2004, [https://hal.science/tel-00106153v1](https://hal.science/tel-00106153v1)
