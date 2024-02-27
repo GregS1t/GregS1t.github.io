@@ -25,9 +25,9 @@ Internship at **Centre de Recherche Astronomique de Lyon**: _Calibration of the 
 
 ## Preprints
 
-A. Siahkoohi, R. Morel, R. Balestriero, E. Allys, G. Sainton, T. Kawamura, and M. V. de Hoop (2024), **Martian time-series unraveled: A multi-scale nested approach with factorial variational autoencoders** [arXiv:2305.16189](https://arxiv.org/abs/2305.16189).
+- A. Siahkoohi, R. Morel, R. Balestriero, E. Allys, G. Sainton, T. Kawamura, and M. V. de Hoop (2024), **Martian time-series unraveled: A multi-scale nested approach with factorial variational autoencoders** [arXiv:2305.16189](https://arxiv.org/abs/2305.16189).
 
-D. Cornu, P. Salomé, B. Semelin, A. Marchal, J. Freundlich, S. Aicardi, X. Lu, G. Sainton, F. Mertens, F. Combes, C. Tasse (2024). **YOLO-CIANNA: Galaxy detection with deep learning in radio data. I. A new YOLO-inspired source detection method applied to the SKAO SDC1**. [arXiv:2402.05925](https://arxiv.org/abs/2402.05925).
+- D. Cornu, P. Salomé, B. Semelin, A. Marchal, J. Freundlich, S. Aicardi, X. Lu, G. Sainton, F. Mertens, F. Combes, C. Tasse (2024). **YOLO-CIANNA: Galaxy detection with deep learning in radio data. I. A new YOLO-inspired source detection method applied to the SKAO SDC1**. [arXiv:2402.05925](https://arxiv.org/abs/2402.05925).
 
 ## 2024
 
