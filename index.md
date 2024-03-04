@@ -2,12 +2,17 @@
 layout: page
 title: "Welcome !"
 ---
-Clearly under construction...
+Always under construction...
 
 
 # Who am i ?
-- I'm research engineer in Machine Learning at Observatoire de Paris in LERMA Team.    
-- Previously i was a software engineer at Institut de physique du globe de Paris (![IPGP](www.ipgp.fr)) mainly working in the NASA InSight mission.
+- I'm research engineer in Machine Learning at Observatoire de Paris in LERMA Team.
+  - Involved in SKA (Square Kilometer Array) radioastronomy telescope project, working on ML algorithms
+  - Also working on PEATLAND cartography using machine Learning.         
+- Previously i was a software engineer at Institut de physique du globe de Paris (![IPGP](www.ipgp.fr))
+  - mainly working in the NASA InSight mission.
+  - Also working on AIT (Assembly Integration and Tests) of the future Lunar seismometer FSS (Farside Seismic Suite) which will be sent in the context of the CLPS (Commercial Lunar Payload Service) from the NASA.
+  - I use to spend a large amount of time working on building IoT devices to create a homemade turbidimeter. 
 
 # Education 
 2001-2004 - Université Pierre et Marie Curie, Paris    
