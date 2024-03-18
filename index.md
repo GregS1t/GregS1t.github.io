@@ -12,7 +12,11 @@ Always under construction...
 - Previously i was a software engineer at Institut de physique du globe de Paris (![IPGP](www.ipgp.fr))
   - mainly working in the NASA InSight mission.
   - Also working on AIT (Assembly Integration and Tests) of the future Lunar seismometer FSS (Farside Seismic Suite) which will be sent in the context of the CLPS (Commercial Lunar Payload Service) from the NASA.
-  - I use to spend a large amount of time working on building IoT devices to create a homemade turbidimeter. 
+  - I use to spend a large amount of time working on building IoT devices to create a homemade turbidimeter.
+    
+# Cross ref
+- [Research Gate](https://www.researchgate.net/profile/Gregory-Sainton)
+- [ORCID](https://orcid.org/0000-0002-9375-4877) 
 
 # Education 
 2001-2004 - Université Pierre et Marie Curie, Paris    
