@@ -42,9 +42,9 @@ Internship at **[Centre de Recherche Astronomique de Lyon](https://cral.univ-lyo
 
 - A. Siahkoohi, R. Morel, R. Balestriero, E. Allys, G. Sainton, T. Kawamura, and M. V. de Hoop (2024), **Martian time-series unraveled: A multi-scale nested approach with factorial variational autoencoders** [arXiv:2305.16189](https://arxiv.org/abs/2305.16189).
 
-- D. Cornu, P. Salomé, B. Semelin, A. Marchal, J. Freundlich, S. Aicardi, X. Lu, G. Sainton, F. Mertens, F. Combes, C. Tasse (2024). **YOLO-CIANNA: Galaxy detection with deep learning in radio data. I. A new YOLO-inspired source detection method applied to the SKAO SDC1**. [arXiv:2402.05925](https://arxiv.org/abs/2402.05925).
-
 ## 2024
+
+- D. Cornu, P. Salomé, B. Semelin, A. Marchal, J. Freundlich, S. Aicardi, X. Lu, G. Sainton, F. Mertens, F. Combes, C. Tasse, A&A, 690, A211 (2024), **YOLO-CIANNA: Galaxy detection with deep learning in radio data. I. A new YOLO-inspired source detection method applied to the SKAO SDC1**. [ 		https://doi.org/10.1051/0004-6361/202449548](https://doi.org/10.1051/0004-6361/202449548).
 
 - A. Lucas, I.J. Daubar, M. Le Teuff, C. Perrin, T. Kawamura, L. Posiolova, P. Lognonné, S. Rodriguez, D. Giardini, G. Sainton, A. Mangeney, A. McEwen, **Possibly seismically triggered avalanches after the S1222a Marsquake and S1000a impact event**, Icarus, Vol. 411, 2024, 115942, [DOI : 10.1016/j.icarus.2023.115942](https://doi.org/10.1016/j.icarus.2023.115942).
 
