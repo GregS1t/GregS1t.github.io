@@ -8,7 +8,7 @@ Always under construction...
 # Who am i ?
 - I am PhD in astrophysics.
 
-- I'm currently **research engineer** in Machine Learning at Observatoire de Paris in LERMA Team.
+- I'm currently **research engineer** in Machine Learning at Observatoire de Paris in LUX* Team.
   - Involved in SKA (Square Kilometer Array) radioastronomy telescope project, working on ML algorithms. [https://www.skao.int/en](https://www.skao.int/en)
   - Also working on a PEATLAND cartography using machine Learning.          
 
@@ -16,8 +16,9 @@ Always under construction...
   - Mainly working in the NASA InSight mission [https://www.seis-insight.eu/fr/](https://www.seis-insight.eu/fr/) to build tools to analyze the data from the Martian sismometer SEIS. 
   - Also working on AIT (Assembly Integration and Tests) of the future Lunar seismometer FSS (Farside Seismic Suite) which will be sent in the context of the CLPS (Commercial Lunar Payload Service) from the NASA. [https://www.jpl.nasa.gov/missions/farside-seismic-suite](https://www.jpl.nasa.gov/missions/farside-seismic-suite)
   - I use to spend a large amount of time working on building IoT devices to create a homemade turbidimeter.
+
+*LUX : Laboratoire d'étude de l'Univers et des phénomènes eXtrêmes.
   
-    
 # Cross ref
 - [Research Gate](https://www.researchgate.net/profile/Gregory-Sainton)
 - [ORCID](https://orcid.org/0000-0002-9375-4877)
